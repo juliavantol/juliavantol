@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, Nice to Meet You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hello, I'm Julia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">   
@@ -8,7 +8,7 @@
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
-## 🏋 About Me
+## 📕 About Me
 
 ```python
 #!/usr/bin/python
@@ -29,7 +29,7 @@ class Student:
 me = Student()
 me.say_hi()
 ```
-## 📈 Skills
+## 🛠️ Skills
 
 ## 📈 Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliavantol&layout=compact&theme=light&bg_color=FFFFFF" alt="Juliavantol Top Languages"/>
