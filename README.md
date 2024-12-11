@@ -9,8 +9,6 @@
 </div>
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 class Student:
 
