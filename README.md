@@ -1,12 +1,12 @@
+
 <h1 align="center">
   Hello, I'm Julia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
-
-<p align="center">   
-  <a href="mailto:julia.aleidavantol@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-B3D8FF?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
-  <a href="https://linkedin.com/in/juliavantol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-B3D8FF?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
-    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
-</p>
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-juliavantol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Gmail Badge](https://img.shields.io/badge/-julia.aleidavantol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.aleidavantol@gmail.com)](mailto:julia.aleidavantol@gmail.com)
+</div>
 
 ```python
 #!/usr/bin/python
