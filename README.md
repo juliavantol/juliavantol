@@ -20,7 +20,7 @@ class Student:
         self.language_spoken = ["nl_NL", "en_US"]
 
     def say_hi(self):
-        print("Hi, thanks for dropping by! :)")
+        print("Hi, thanks for stopping by! :)")
 
 
 me = Student()
