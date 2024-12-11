@@ -20,7 +20,6 @@ class Student:
     def say_hi(self):
         print("Hi, thanks for stopping by! :)")
 
-
 me = Student()
 me.say_hi()
 ```
