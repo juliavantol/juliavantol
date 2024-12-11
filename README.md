@@ -4,8 +4,9 @@
 </h1>
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-juliavantol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
-  [![Gmail Badge](https://img.shields.io/badge/-julia.aleidavantol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.aleidavantol@gmail.com)](mailto:julia.aleidavantol@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliavantol/)](https://www.linkedin.com/in/juliavantol/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.aleidavantol@gmail.com)](mailto:julia.aleidavantol@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/juliavantol?label=Follow&style=social)](https://github.com/juliavantol/?tab=follow)
 </div>
 
 ```python
