@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Hi there, I'm Julia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
@@ -21,7 +20,7 @@ class Student:
         self.language_spoken = ["nl_NL", "en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find my profile interesting :)")
+        print("Hi, thanks for dropping by! :)")
 
 
 me = Student()
@@ -50,9 +49,6 @@ me.say_hi()
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
-
   
 ## 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliavantol&layout=compact&theme=light&bg_color=FFFFFF" alt="Juliavantol Top Languages"/>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
