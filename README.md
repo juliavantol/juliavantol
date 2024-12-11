@@ -8,12 +8,9 @@
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
-## 📕 About Me
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class Student:
 
@@ -29,8 +26,15 @@ class Student:
 me = Student()
 me.say_hi()
 ```
+
+## ⭐ About Me
+- 💻 Aspiring Software Engineer with a passion for coding and problem-solving.
+- 🎓 Student at Codam Coding College – 2 years of intensive programming education.
+- 📚 Over 5 years of self-taught programming experience.
+- 🚀 Excited to grow, collaborate, and contribute to impactful projects.
+
 ## 🛠️ Skills
 
-## 📈 Github Stats
+## 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliavantol&layout=compact&theme=light&bg_color=FFFFFF" alt="Juliavantol Top Languages"/>
 
