@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">   
-  <a href="mailto:julia.aleidavantol@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
-  <a href="https://linkedin.com/in/juliavantol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+  <a href="mailto:julia.aleidavantol@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-B3D8FF?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
+  <a href="https://linkedin.com/in/juliavantol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-B3D8FF?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
@@ -29,5 +29,8 @@ class Student:
 me = Student()
 me.say_hi()
 ```
+## 📈 Skills
 
 ## 📈 Github Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliavantol&layout=compact&theme=light&bg_color=FFFFFF" alt="Juliavantol Top Languages"/>
+
