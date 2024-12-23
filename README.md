@@ -46,6 +46,13 @@ me.say_hi()
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
+
+## 📂 Repositories
+
+- [42codam](https://github.com/juliavantol/42codam) - The projects I've done during my time at Codam Coding College
+- [PressPause](https://github.com/juliavantol/PressPause) - A Chrome extension using Javascript that helps sync up a commentary track with a movie
+
+
   
 ## 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliavantol&layout=compact&theme=light&bg_color=FFFFFF" alt="Juliavantol Top Languages"/>
