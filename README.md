@@ -53,7 +53,3 @@ me.say_hi()
 - [PressPause](https://github.com/juliavantol/PressPause) - A Chrome extension using Javascript that helps sync up a commentary track with a movie
 - [AnagramFinder](https://github.com/juliavantol/practice/tree/master/AnagramFinder) - A Python program that lets you input letters and returns all the possible words that you can form with those letters
 - [WordleHelper](https://github.com/juliavantol/practice/tree/master/WordleHelper)  - A Python program that aids players insolving Wordle puzzles by inputting known letters and their positions
-
-  
-## 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliavantol&layout=compact&theme=light&bg_color=FFFFFF" alt="Juliavantol Top Languages"/>
