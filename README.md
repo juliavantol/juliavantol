@@ -51,7 +51,8 @@ me.say_hi()
 
 - [42codam](https://github.com/juliavantol/42codam) - The projects I've done during my time at Codam Coding College
 - [PressPause](https://github.com/juliavantol/PressPause) - A Chrome extension using Javascript that helps sync up a commentary track with a movie
-
+- [AnagramFinder](https://github.com/juliavantol/practice/tree/master/AnagramFinder) - A Python program that lets you input letters and returns all the possible words that you can form with those letters
+- [WordleHelper]([https://github.com/juliavantol/PressPause](https://github.com/juliavantol/practice/tree/master/WordleHelper)) - A Python program that aids players insolving Wordle puzzles by inputting known letters and their positions
 
   
 ## 📊 Github Stats
